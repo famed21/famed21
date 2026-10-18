@@ -1,0 +1,14 @@
+{
+  "title": "Security Tooling & Languages",
+  "_comment": "Hand-authored stack radar (was auto-pulled from GitHub language bytes). Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Python",        "value": 90 },
+    { "label": "Bash / Shell",  "value": 88 },
+    { "label": "PowerShell",    "value": 82 },
+    { "label": "C / C++",       "value": 75 },
+    { "label": "Go",            "value": 70 },
+    { "label": "Rust",          "value": 65 },
+    { "label": "SQL",           "value": 78 },
+    { "label": "YAML / JSON",   "value": 85 }
+  ]
+}

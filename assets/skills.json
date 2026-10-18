@@ -1,0 +1,15 @@
+{
+  "title": "Cyber Security Intelligence Analyst",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Threat Intelligence",      "value": 95 },
+    { "label": "OSINT",                   "value": 92 },
+    { "label": "Vulnerability Assessment", "value": 90 },
+    { "label": "Penetration Testing",     "value": 88 },
+    { "label": "Incident Response",       "value": 85 },
+    { "label": "Network Traffic Analysis", "value": 87 },
+    { "label": "Active Directory Security", "value": 83 },
+    { "label": "SIEM / Log Analysis",     "value": 85 },
+    { "label": "Machine Learning",        "value": 70 }
+  ]
+}
